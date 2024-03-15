@@ -1,0 +1,1 @@
+export const ERROR_GIF = 'https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJqZjd4bHk3azg3cm43c2c3ZTZoZXBuODFzbDNneGl3cTNhMHNyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mq5y2jHRCAqMo/giphy.gif'
